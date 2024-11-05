@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxenoemu.github.io/QFG/sitemap_index.txt
+Sitemap: https://uxenoemu.github.io/UNR/sitemap_index.txt
+Sitemap: https://uxenoemu.github.io/fQs/sitemap_index.txt
+Sitemap: https://uxenoemu.github.io/sxV/sitemap_index.txt
